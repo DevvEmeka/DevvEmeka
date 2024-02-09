@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp; I'm Emeka
 
-💡 &nbsp; A Frontend Developer | Technical and Content writer <img height=20px width=20px src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">\
+💡 &nbsp; A Fullstack Developer | Technical and Content writer <img height=20px width=20px src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">\
 🎓 I'm currently learning Next JS and Typescript\
 👯 &nbsp; Open to collaborate on open source projects\
 📫 &nbsp; I write on [hashnode](https://devemeka.hashnode.dev/)
