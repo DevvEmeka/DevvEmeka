@@ -19,15 +19,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
- ##### 💾 Database
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
-### 📊 GitHub Stats 
----
-| <a href="https://github.com/EmekaDollar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmekaDollar&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/ThatCoolGuyyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmekaDollar&layout=compact&theme=buefy&hide_border=true" /></a> | 
-| ------------- | ------------- |
-
  #### 📱Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuemeka-abuba/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/manuelabuba) 
