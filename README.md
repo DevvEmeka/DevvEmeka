@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I'm [Emmanuel]  
 
 Welcome to my GitHub! I’m a frontend developer passionate about building intuitive, user-friendly web applications. With experience in modern technologies like React, NextJs, NodeJs/ExpressJs, TypeScript, and Tailwind CSS, I strive to deliver scalable and efficient solutions.
@@ -25,7 +23,7 @@ Welcome to my GitHub! I’m a frontend developer passionate about building intui
 
 ## 📂 Featured Projects  
 
-### [🏦 Fintech Dashboard](#)  
+### [🏦 Fintech Dashboard](https://personal-finance-app-mystic.vercel.app/)  
 **Tech Stack**: NextJS, TypeScript, Tailwind CSS, Redux  
 - Spearheaded the development of a Banking as a Service (BaaS) dashboard for real-time tracking of POS terminals and transactions.  
 - Reduced API response times by 40% through optimized data fetching and lazy loading.  
@@ -55,11 +53,4 @@ I’m a hiking enthusiast who believes debugging code is just like navigating a 
 - **Portfolio**: [yourportfolio.com](#)  
 
 Thanks for checking out my GitHub! I’m always open to exciting opportunities and collaborations. 🚀  
-
----
-
-
- #### 📱Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/manuelabuba) 
 
