@@ -49,7 +49,7 @@ I’m a hiking enthusiast who believes debugging code is just like navigating a 
 ## 📬 Let’s Connect  
 
 - **Email**: [devemeka@outlook.com]  
-- **LinkedIn**: [www.linkedin.com/in/chukwuemeka-abuba/](#)  
+- **LinkedIn**: [Linkedin profile](www.linkedin.com/in/chukwuemeka-abuba/)
 - **Portfolio**: [yourportfolio.com](#)  
 
 Thanks for checking out my GitHub! I’m always open to exciting opportunities and collaborations. 🚀  
