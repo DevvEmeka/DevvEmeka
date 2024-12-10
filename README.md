@@ -1,25 +1,65 @@
-<h2>Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> </h2>
+---
 
-### 👨🏻‍💻 &nbsp; I'm Emeka
+# 👋 Hi, I'm [Emmanuel]  
 
-💡 &nbsp; A Fullstack Developer | Technical and Content writer <img height=20px width=20px src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">\
-🎓 I'm currently learning Cloud\
-👯 &nbsp; Open to collaborate on open source projects\
-📫 &nbsp; I write on [hashnode](https://devemeka.hashnode.dev/)
+Welcome to my GitHub! I’m a frontend developer passionate about building intuitive, user-friendly web applications. With experience in modern technologies like React, TypeScript, and Tailwind CSS, I strive to deliver scalable and efficient solutions.
 
+---
 
-### 🛠 Tech Stack:
+## 🚀 About Me  
 
-#### Languages and Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+- 🛠️ **What I Build**: Create responsive, accessible, and high-performance web applications.  
+- 🎯 **What Drives Me**: Simplifying complex challenges into elegant solutions with clean, efficient code.  
+- 🌟 **What Sets Me Apart**: A unique blend of technical expertise and a knack for creating engaging, human-centered designs.
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Languages**: TypeScript, JavaScript, HTML5, CSS3, SCSS  
+- **Frameworks & Libraries**: React, Redux, Tailwind CSS  
+- **Tools**: Git, Postman, MongoDB, SQL, VS Code  
+- **Skills**: API Integration, Performance Optimization, Accessibility, Debugging  
+
+---
+
+## 📂 Featured Projects  
+
+### [🏦 Fintech Dashboard](#)  
+**Tech Stack**: NextJS, TypeScript, Tailwind CSS, Redux  
+- Spearheaded the development of a Banking as a Service (BaaS) dashboard for real-time tracking of POS terminals and transactions.  
+- Reduced API response times by 40% through optimized data fetching and lazy loading.  
+- Integrated role-based access controls and advanced data visualization tools for actionable insights.  
+
+### [📊 Dynamic Transaction Table](#)  
+**Tech Stack**: React, TypeScript, Tailwind CSS  
+- Designed a transaction table with dynamic pagination, displaying transaction details in an intuitive, user-friendly layout.  
+- Ensured seamless performance with responsive updates and optimized rendering logic.  
+
+### [🌐 Portfolio Website](#)  
+**Tech Stack**: React, Tailwind CSS  
+- Built a responsive portfolio to showcase my projects, professional journey, and technical expertise.  
+
+---
+
+## 🌟 Fun Fact  
+
+I’m a hiking enthusiast who believes debugging code is just like navigating a trail—challenging but rewarding once you find the right path!  
+
+---
+
+## 📬 Let’s Connect  
+
+- **Email**: [devemeka@outlook.com]  
+- **LinkedIn**: [www.linkedin.com/in/chukwuemeka-abuba/](#)  
+- **Portfolio**: [yourportfolio.com](#)  
+
+Thanks for checking out my GitHub! I’m always open to exciting opportunities and collaborations. 🚀  
+
+---
+
 
  #### 📱Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuemeka-abuba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/manuelabuba) 
 
