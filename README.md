@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm [Emmanuel]  
 
-Welcome to my GitHub! I’m a frontend developer passionate about building intuitive, user-friendly web applications. With experience in modern technologies like React, TypeScript, and Tailwind CSS, I strive to deliver scalable and efficient solutions.
+Welcome to my GitHub! I’m a frontend developer passionate about building intuitive, user-friendly web applications. With experience in modern technologies like React, NextJs, NodeJs/ExpressJs, TypeScript, and Tailwind CSS, I strive to deliver scalable and efficient solutions.
 
 ---
 
@@ -16,8 +16,8 @@ Welcome to my GitHub! I’m a frontend developer passionate about building intui
 
 ## 🛠️ Tech Stack  
 
-- **Languages**: TypeScript, JavaScript, HTML5, CSS3, SCSS  
-- **Frameworks & Libraries**: React, Redux, Tailwind CSS  
+- **Languages**: TypeScript, JavaScript, NodeJS, HTML5, CSS3, SCSS  
+- **Frameworks & Libraries**: React, NextJs, ExpressJs, Redux, Tailwind CSS  
 - **Tools**: Git, Postman, MongoDB, SQL, VS Code  
 - **Skills**: API Integration, Performance Optimization, Accessibility, Debugging  
 
