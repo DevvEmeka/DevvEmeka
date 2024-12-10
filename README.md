@@ -48,7 +48,7 @@ I’m a hiking enthusiast who believes debugging code is just like navigating a 
 
 ## 📬 Let’s Connect  
 
-- **Email**: [devemeka@outlook.com]  
+- **Email**: [My email address](devemeka@outlook.com)  
 - **LinkedIn**: [Linkedin profile](www.linkedin.com/in/chukwuemeka-abuba/)
 - **Portfolio**: [yourportfolio.com](#)  
 
